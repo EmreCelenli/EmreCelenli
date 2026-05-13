@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmreCelenli/EmreCelenli/main/enso.svg" width="140" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmreCelenli/EmreCelenli/main/enso-white.svg" />
+    <img src="https://raw.githubusercontent.com/EmreCelenli/EmreCelenli/main/enso.svg" width="140" />
+  </picture>
 </p>
 
 <br>
